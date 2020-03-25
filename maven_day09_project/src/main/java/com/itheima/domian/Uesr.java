@@ -7,4 +7,5 @@ package com.itheima.domian;
 public class Uesr {
     private Integer id;
     private String name;
+    private String password;
 }
